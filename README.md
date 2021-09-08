@@ -27,35 +27,35 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/c.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/django.png"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/css.svg"></code>
-  <code><img title="SASS" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/sass.svg"></code>
-  <code><img title="Gulp" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/gulp.svg"></code>
-  <code><img title="React" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/angularjs.png"></code>
-  <code><img title="Git" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/dotnetcore.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/json.svg"></code>
-  <code><img title="Unity" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/php.svg"></code>
-  <code><img title="Flask" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/master/images/flask.png"></code>
+  <code><img title="C" height="25" src="https://github.com/brayangomez22/blob/master/images/c.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/brayangomez22/blob/master/images/cpp.svg"></code>
+  <code><img title="C#" height="25" src="https://github.com/brayangomez22/blob/master/images/cSharp.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/brayangomez22/blob/master/images/python-original.svg"></code>
+  <code><img title="Django" height="25" src="https://github.com/brayangomez22/blob/master/images/django.png"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/brayangomez22/blob/master/images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/brayangomez22/blob/master/images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/brayangomez22/blob/master/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/brayangomez22/blob/master/images/css.svg"></code>
+  <code><img title="SASS" height="25" src="https://github.com/brayangomez22/blob/master/images/sass.svg"></code>
+  <code><img title="Gulp" height="25" src="https://github.com/brayangomez22/blob/master/images/gulp.svg"></code>
+  <code><img title="React" height="25" src="https://github.com/brayangomez22/blob/master/images/react-original.svg"></code>
+  <code><img title="Redux" height="25" src="https://github.com/brayangomez22/blob/master/images/redux.svg"></code>
+  <code><img title="AngularJS" height="25" src="https://github.com/brayangomez22/blob/master/images/angularjs.png"></code>
+  <code><img title="Git" height="25" src="https://github.com/brayangomez22/blob/master/images/git-original.svg"></code>
+  <code><img title=".NetCore" height="25" src="https://github.com/brayangomez22/blob/master/images/dotnetcore.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="https://github.com/brayangomez22/blob/master/images/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/brayangomez22/blob/master/images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/brayangomez22/blob/master/images/visualstudio.png"></code>
+  <code><img title="JQuery" height="25" src="https://github.com/brayangomez22/blob/master/images/jquery-original.svg"></code>
+  <code><img title="Java" height="25" src="https://github.com/brayangomez22/blob/master/images/java-original.svg"></code>
+  <code><img title="JSON" height="25" src="https://github.com/brayangomez22/blob/master/images/json.svg"></code>
+  <code><img title="Unity" height="25" src="https://github.com/brayangomez22/blob/master/images/unity3d.svg"></code>
+  <code><img title="Android" height="25" src="https://github.com/brayangomez22/blob/master/images/android.svg"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/brayangomez22/blob/master/images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="https://github.com/brayangomez22/blob/master/images/mysql.svg"></code>
+  <code><img title="npm" height="25" src="https://github.com/brayangomez22/blob/master/images/npm.svg"></code>
+  <code><img title="PHP" height="25" src="https://github.com/brayangomez22/blob/master/images/php.svg"></code>
+  <code><img title="Flask" height="25" src="https://github.com/brayangomez22/blob/master/images/flask.png"></code>
 </p>
 <hr>
 
@@ -89,7 +89,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/brayangomez22/red-social" title="Social Network"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=brayangomez22&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/brayangomez22/red-social" title="Social Network"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=brayangomez22&repo=red-social&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/brayangomez22/portfolio" title="Portfolio"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=brayangomez22&repo=portfolio&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
