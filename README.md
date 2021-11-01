@@ -94,7 +94,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/brayangomez22/AngularMoviesApp" title="Angular Movies App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=brayangomez22&repo=AngularMoviesApp&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/brayangomez22/angular-movies-app" title="Angular Movies App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=brayangomez22&repo=angular-movies-app&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/brayangomez22/ionic-wish-list" title="Ionic Wish List"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=brayangomez22&repo=ionic-wish-list&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
